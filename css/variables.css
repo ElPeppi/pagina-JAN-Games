@@ -1,0 +1,11 @@
+/* variables.css */
+:root {
+  --font-main: 'Outfit', sans-serif;
+  --color-bg-light: #f9fafb;
+  --color-bg-dark: #1f2937;
+  --color-text-light: #111827;
+  --color-text-dark: #f3f4f6;
+  --color-primary: #4f46e5;
+  --color-accent: #332e94;
+  --color-highlight: #10b981;
+}
