@@ -58,3 +58,16 @@ body.dark.elegant .cta-button {
 body.dark.elegant .cta-button:hover {
   background-color: #4f46e5;
 }
+
+#fondo-transicionado {
+  transition: background 0.6s ease, opacity 0.6s ease;
+  min-height: 100vh;
+}
+
+body.dark.neon #fondo-transicionado {
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+}
+
+body.dark.elegant #fondo-transicionado {
+  background-color: #1e1e2f;
+}
